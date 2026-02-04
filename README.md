@@ -1,26 +1,55 @@
-## Hi, I'm Arjun! Welcome to my page 😄
-
-### My Journey So Far 🌱
-I've always been interested in technology and computers, however I only started my programming journey recently! I recently graduated from New York University studying Violin Performance (strange I know) as my primary major. About mid 2022 I started to get into Data Analysis thanks to my chemistry classes and began programming with R and Python and fell love with the process of making code. I gained an appreciation for everything electronic around me that was built with programming.
-
-I began to explore more about technology, learning full stack development on my own time, with JavaScript: React, and NodeJS, eventually moving onto building with frameworks such as .NET Core 8, Spring Boot and Django. It was eerily similar to practicing an instrument! The more time and effort I put into practicing programming, the better I got. I decided towards the end of my studies at NYU that I wanted to do this for a living. The constant practice and learning is something I was familiar and good at and most importantly being a part of a team to make real products would be undeniably fulfilling.
-
-### Currently
-I'm currently on the look-out for a role in full-stack development, ideally writing React with Java Spring, Django or NodeJS for the backend. I would especially love to work at a smaller startup where I can really see the results of my work and the effect it has on people. 👯
-If you are hiring, lets chat! 💬
+# Hello, I'm Arjun
+<a href="https://www.linkedin.com/in/arjun-maudhoo-004712167/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
+I am an aspiring cybersecurity professional with a deep interest in the ever-evolving cyber threat landscape.
+
+## Objective
+
+
+My journey in programming, finance and ongoing MS in Cybersecurity has led me to develop a passion for all things Cyber, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 <!--
-**apmaud/apmaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+-->
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+<!--
+## Projects
+- Detection Lab
+- SOC Automation Project
 -->
