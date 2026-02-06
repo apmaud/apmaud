@@ -7,7 +7,7 @@ I am an aspiring cybersecurity professional with a deep interest in the ever-evo
 ## Objective
 
 
-My journey in programming, finance and ongoing MS in Cybersecurity has led me to develop a passion for all things Cyber, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in programming and finance has led me to develop a passion for all things cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 As I learn, my projects and skills will be updated here!
 
