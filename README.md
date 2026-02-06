@@ -18,10 +18,10 @@ As I learn, my projects and skills will be updated here!
 -->
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Security Automation with Shuffle SOAR         | <a href="https://google.com">SOC Automation Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://google.com">SOC Automation Lab</a>|
-| Case Management with TheHive                  | <a href="https://google.com">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation| <a href="https://google.com">SOC Automation Lab</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation| <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 
 ## Tools
 ### Network
@@ -53,5 +53,5 @@ As I learn, my projects and skills will be updated here!
 </div>
 
 ## Projects
-- SOC Automation Project
+- <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Project</a>
 
