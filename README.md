@@ -12,16 +12,15 @@ My journey in programming and finance has led me to develop a passion for all th
 As I learn, my projects and skills will be updated here!
 
 ## Skills
-<!--
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
--->
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
-| Incident Response Planning and Execution      | <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
-| Case Management with TheHive                  | <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation| <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+
+| Skill                                           | Associated Project         |
+|-------------------------------------------------|----------------------------|
+| Domain-based Authentication with Active Directory | <a href="https://github.com/apmaud/Active-Directory-Project">Active Directory Project</a>|
+| SIEM set up and indexing with Splunk            | <a href="https://github.com/apmaud/Active-Directory-Project">Active Directory Project</a>|
+| Generation of security telemetry with Kali and ART | <a href="https://github.com/apmaud/Active-Directory-Project">Active Directory Project</a>|
+| Security Automation with Shuffle SOAR           | <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Case Management with TheHive                    | <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation  | <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 
 ## Tools
 ### Network
@@ -32,6 +31,7 @@ As I learn, my projects and skills will be updated here!
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-2563EB?&style=for-the-badge&logo=wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ### SIEM
@@ -54,4 +54,5 @@ As I learn, my projects and skills will be updated here!
 
 ## Projects
 - <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Project</a>
+- <a href="https://github.com/apmaud/Active-Directory-Project">Active Directory Project</a>
 
