@@ -15,8 +15,11 @@ As I learn, my projects and skills will be updated here!
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
+| SIEM with Elastic and Kibana                       | <a href="https://github.com/apmaud/SOC-ELK-Project/tree/main">SOC ELK Stack Project</a>|
+| C2 Framework with Mythic                          | <a href="https://github.com/apmaud/SOC-ELK-Project/tree/main">SOC ELK Stack Project</a> |
+| Ticketing and EDR Integration with SIEMs         | <a href="https://github.com/apmaud/SOC-ELK-Project/tree/main">SOC ELK Stack Project</a>  |
 | Domain-based Authentication with Active Directory | <a href="https://github.com/apmaud/Active-Directory-Project">Active Directory Project</a>|
-| SIEM set up and indexing with Splunk            | <a href="https://github.com/apmaud/Active-Directory-Project">Active Directory Project</a>|
+| SIEM with Splunk                                  | <a href="https://github.com/apmaud/Active-Directory-Project">Active Directory Project</a>|
 | Generation of security telemetry with Kali and ART | <a href="https://github.com/apmaud/Active-Directory-Project">Active Directory Project</a>|
 | Security Automation with Shuffle SOAR           | <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 | Case Management with TheHive                    | <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
@@ -30,15 +33,17 @@ As I learn, my projects and skills will be updated here!
 
 ### Endpoint
 <div>
+    <img src="https://img.shields.io/badge/-Elastic_Defend-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-2563EB?&style=for-the-badge&logo=wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kibana-343741?&style=for-the-badge&logo=Kibana&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-2563EB?&style=for-the-badge&logo=wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ### SOAR
@@ -53,6 +58,7 @@ As I learn, my projects and skills will be updated here!
 </div>
 
 ## Projects
+- <a href="https://github.com/apmaud/SOC-ELK-Project/tree/main">SOC ELK Stack Project</a>
 - <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Project</a>
 - <a href="https://github.com/apmaud/Active-Directory-Project">Active Directory Project</a>
 
