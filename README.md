@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/arjun-maudhoo-004712167/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am an aspiring cybersecurity professional with a deep interest in the ever-evolving cyber threat landscape.
+I am an aspiring cybersecurity and networking professional with a deep interest in the ever-evolving cyber and network landscape.
 
 ## Objective
 
