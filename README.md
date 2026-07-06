@@ -7,7 +7,7 @@ I am an IT security and engineering professional with a deep interest in network
 ## Objective
 
 
-My journey in programming and finance has led me to develop a passion for all things cybersecurity, and I am now eager to transition into this field.
+My journey in applicatoin programming and finance has led me to develop a passion for all things cyber engineering related, and I am now eager to transition into this field!
 
 As I learn, my projects and skills will be updated here!
 
@@ -15,8 +15,8 @@ As I learn, my projects and skills will be updated here!
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| C# .NET Core  | <a href="https://github.com/apmaud/MoneyFlow">MoneyFlow/a>|
-| React: Redux, MUI  | <a href="https://github.com/apmaud/MoneyFlow">MoneyFlow/a>|
+| C# .NET Core  | <a href="https://github.com/apmaud/MoneyFlow">MoneyFlow</a>|
+| React: Redux, MUI  | <a href="https://github.com/apmaud/MoneyFlow">MoneyFlow</a>|
 | SIEM with Elastic and Kibana                       | <a href="https://github.com/apmaud/SOC-ELK-Project/tree/main">SOC ELK Stack Project</a>|
 | C2 Framework with Mythic                          | <a href="https://github.com/apmaud/SOC-ELK-Project/tree/main">SOC ELK Stack Project</a> |
 | Ticketing and EDR Integration with SIEMs         | <a href="https://github.com/apmaud/SOC-ELK-Project/tree/main">SOC ELK Stack Project</a>  |
@@ -60,6 +60,7 @@ As I learn, my projects and skills will be updated here!
 </div>
 
 ## Projects
+- <a href="https://github.com/apmaud/MoneyFlow">MoneyFlow</a>
 - <a href="https://github.com/apmaud/SOC-ELK-Project/tree/main">SOC ELK Stack Project</a>
 - <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Project</a>
 - <a href="https://github.com/apmaud/Active-Directory-Project">Active Directory Project</a>
