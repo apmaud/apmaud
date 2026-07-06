@@ -28,6 +28,13 @@ As I learn, my projects and skills will be updated here!
 | Scripting and Automation for Threat Mitigation  | <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
 
 ## Tools
+### Software Development
+<div>
+    <img src="https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-.NET-512BD4?&style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-React-20232A?&style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
+</div>
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
