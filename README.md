@@ -30,7 +30,7 @@ As I learn, my projects and skills will be updated here!
 ## Tools
 ### Software Development
 <div>
-    <img src="https://img.shields.io/badge/-C-A8B9CC?&style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/-%20-A8B9CC?&style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/-C%23-239120?&style=for-the-badge&logo=csharp&logoColor=white" />
     <img src="https://img.shields.io/badge/-.NET-512BD4?&style=for-the-badge&logo=dotnet&logoColor=white" />
     <img src="https://img.shields.io/badge/-React-20232A?&style=for-the-badge&logo=react&logoColor=61DAFB" />
