@@ -7,8 +7,6 @@ I am an IT security and engineering professional with a deep interest in network
 ## Objective
 
 
-My journey in applicatoin programming and finance has led me to develop a passion for all things cyber engineering related, and I am now eager to transition into this field!
-
 As I learn, my projects and skills will be updated here!
 
 ## Skills
