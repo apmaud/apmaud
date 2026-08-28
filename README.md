@@ -14,7 +14,6 @@ As I learn, my projects and skills will be updated here!
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
 | C# .NET Core, React, Cloud, Docker, Caddy: Reverse Proxy & Certificates, Postgres  | <a href="https://github.com/apmaud/MoneyFlow">MoneyFlow</a>|
-| React: Redux, MUI  | <a href="https://github.com/apmaud/MoneyFlow">MoneyFlow</a>|
 | Elastic & Kibana, C2, Ticketing, EDR Integration | <a href="https://github.com/apmaud/SOC-ELK-Project/tree/main">SOC ELK Stack Project</a>|
 | Active Directory, Splunk, Kali and ART | <a href="https://github.com/apmaud/Active-Directory-Project">Active Directory Project</a>|
 | SOAR: Shuffle, Case Management: TheHive, Scripting and Automation | <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>|
