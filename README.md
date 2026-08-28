@@ -15,9 +15,7 @@ As I learn, my projects and skills will be updated here!
 |-------------------------------------------------|----------------------------|
 | C# .NET Core  | <a href="https://github.com/apmaud/MoneyFlow">MoneyFlow</a>|
 | React: Redux, MUI  | <a href="https://github.com/apmaud/MoneyFlow">MoneyFlow</a>|
-| SIEM with Elastic and Kibana                       | <a href="https://github.com/apmaud/SOC-ELK-Project/tree/main">SOC ELK Stack Project</a>|
-| C2 Framework with Mythic                          | <a href="https://github.com/apmaud/SOC-ELK-Project/tree/main">SOC ELK Stack Project</a> |
-| Ticketing and EDR Integration with SIEMs         | <a href="https://github.com/apmaud/SOC-ELK-Project/tree/main">SOC ELK Stack Project</a>  |
+| SIEM: Elastic & Kibana, C2, Ticketing, EDR Integration                       | <a href="https://github.com/apmaud/SOC-ELK-Project/tree/main">SOC ELK Stack Project</a>|
 | Domain-based Authentication with Active Directory | <a href="https://github.com/apmaud/Active-Directory-Project">Active Directory Project</a>|
 | SIEM with Splunk                                  | <a href="https://github.com/apmaud/Active-Directory-Project">Active Directory Project</a>|
 | Generation of security telemetry with Kali and ART | <a href="https://github.com/apmaud/Active-Directory-Project">Active Directory Project</a>|
