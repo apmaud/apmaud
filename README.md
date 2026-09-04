@@ -13,6 +13,7 @@ As I learn, my projects and skills will be updated here!
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
+| C, TCP/IP Sockets, epoll & Non-blocking I/O, Raw Sockets & Packet Parsing, Multithreading, iptables/Security Automation| <a href="https://github.com/apmaud/load-balancer">Load Balancer</a> <a href="https://github.com/apmaud/simple-firewall">Firewall</a>|
 | C# .NET Core, React, Cloud, Docker, Caddy: Reverse Proxy & Certificates, Postgres  | <a href="https://github.com/apmaud/MoneyFlow">MoneyFlow</a>|
 | Elastic & Kibana, C2, Ticketing, EDR Integration | <a href="https://github.com/apmaud/SOC-ELK-Project/tree/main">SOC ELK Stack Project</a>|
 | Active Directory, Splunk, Kali and ART | <a href="https://github.com/apmaud/Active-Directory-Project">Active Directory Project</a>|
