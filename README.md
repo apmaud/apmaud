@@ -4,10 +4,17 @@
 
 I am an IT security and engineering professional with a deep interest in networking and secure engineering.
 
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+
 ## Objective
 
-
 As I learn, my projects and skills will be updated here!
+
 
 ## Skills
 
@@ -54,14 +61,10 @@ As I learn, my projects and skills will be updated here!
     <img src="https://img.shields.io/badge/-Shuffler-7C3AED?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
-
 ## Projects
 - <a href="https://github.com/apmaud/MoneyFlow">MoneyFlow</a>
+- <a href="https://github.com/apmaud/load-balancer">Load Balancer</a>
+- <a href="https://github.com/apmaud/simple-firewall">Firewall</a>
 - <a href="https://github.com/apmaud/SOC-ELK-Project/tree/main">SOC ELK Stack Project</a>
 - <a href="https://github.com/apmaud/SOC-Automation-Lab/tree/main">SOC Automation Project</a>
 - <a href="https://github.com/apmaud/Active-Directory-Project">Active Directory Project</a>
